@@ -2,7 +2,7 @@
   "name": "stream",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "run": "tsx index.ts"
   },
